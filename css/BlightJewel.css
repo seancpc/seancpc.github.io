@@ -176,7 +176,7 @@ body {
 	transform:scale(1.2,1.2);
 }
 .main-content .itme .text {
-	padding: 10px;
+	padding: 20px 20px 16px;
 }
 .main-content .item h3 {
 	color: #f5afac;
@@ -209,9 +209,6 @@ body {
 	top: 0px;
 	border-radius: 50%;
 	transform: rotate(-45deg);
-}
-.item .text {
-	padding: 20px 20px 16px;
 }
 @keyframes shake {
 	0%{transform: rotate(-10deg);}
