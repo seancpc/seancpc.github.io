@@ -1,2 +1,2 @@
-切版作品:珠寶網站 <br>
+前端靜態網頁實作
 JavaScript/jQuery/Bootstrap
